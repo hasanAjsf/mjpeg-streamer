@@ -1,4 +1,4 @@
-# mjpeg-streamer
+# mjpeg-streamer [![PkgGoDev](https://pkg.go.dev/badge/github.com/hajsf/mjpeg-streamer)](https://pkg.go.dev/github.com/hajsf/mjpeg-streamer)
 
 A simple package to stream mjpeg to web.
 
