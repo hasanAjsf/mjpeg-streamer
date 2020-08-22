@@ -1,3 +1,5 @@
+package main
+
 func ExampleUpdateJPEG() {
   // Create new buffer for the image
   buf, _ := gocv.IMEncode(".jpg", img)
