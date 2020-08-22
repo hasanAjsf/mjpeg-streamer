@@ -1,4 +1,4 @@
-package main
+package mjpeg
 
 func ExampleUpdateJPEG() {
   // Create new buffer for the image
