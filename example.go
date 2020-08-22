@@ -1,4 +1,4 @@
-package mjpeg
+package main
 
 import (
 	"fmt"
