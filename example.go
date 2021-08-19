@@ -1,3 +1,4 @@
+/*
 package main
 
 import (
@@ -51,3 +52,4 @@ func main() {
 	http.Handle("/", stream)
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
+*/
